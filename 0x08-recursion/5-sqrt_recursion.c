@@ -20,7 +20,6 @@ int _sqrt_recursion(int n)
 	if (sqrt == n)
 		return (i);
 
-	return ( _sqrt(n, i +));
+	return (sqrt(n, i +));
 
-}
-	
+}	
